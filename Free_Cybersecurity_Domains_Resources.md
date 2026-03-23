@@ -1,4 +1,4 @@
-# Cybersecurity Domains
+# Cybersecurity Domains and Resource Links
 
 ## Core Security Domains
 
