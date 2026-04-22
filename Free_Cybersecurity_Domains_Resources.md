@@ -22,6 +22,7 @@
 -   Web Application Security Testing
 -   Mobile Application Security Testing
 -   API Security Testing
+-   Ethical Hacking : https://github.com/Samsar4/Ethical-Hacking-Labs
 
 ## Defensive Security (Blue Teaming)
 
